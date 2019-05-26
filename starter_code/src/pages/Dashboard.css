@@ -1,0 +1,14 @@
+.countryList{
+    width: 30vw;
+    height: 80vh;
+    overflow: scroll;
+}
+.countryListScroll {
+    list-style: none;
+
+}
+.countryListScroll a{
+    text-decoration: none;
+    color: black;
+    font-weight: lighter;
+}
